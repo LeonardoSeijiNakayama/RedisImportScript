@@ -2,7 +2,7 @@ import csv
 import redis
 
 
-r = redis.Redis(host='localhost', port=6379, db=0)
+r = redis.Redis(host='localhost', port=6379, db=0) 
 
 
 csv_file_path = "acervo_da_biblioteca_2021.csv"
