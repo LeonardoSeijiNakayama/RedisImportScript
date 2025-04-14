@@ -1,0 +1,54 @@
+Indicador 1;Indicador 2;Meio;Modelo de negócio;Fonte;Tipo de Indicador;Jan;Fev;Mar;Abr;Mai;Jun;Jul;Ago;Set;Out;Nov;Dez
+Acervo;Livros (exemplares);Impresso;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;356.422;356.422;356.435;356.436;356.436;356.449;356.613;357.034;357.332;357.577;357.810;358.615
+Acervo;Catálogo de arte;Impresso;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;597;597;597;597;597;597;597;597;597;597;597;597
+Acervo;Conjunto de peças;Físico;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;27;27;27;27;27;27;27;27;27;27;27;27
+Acervo;Teses (UFU e externa);Impresso;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;9.476;9.476;9.476;9.476;9.476;9.476;9.476;9.476;9.476;9.476;9.476;9.476
+Acervo;Normas técnicas;Impresso;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;1.725;1.725;1.725;1.725;1.725;1.725;1.725;1.725;1.725;1.725;1.725;1.725
+Acervo;Partituras;Impresso;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;6.984;6.984;6.984;6.984;6.984;6.984;6.984;6.984;6.984;6.984;6.984;6.984
+Acervo;Periódicos;Impresso;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;5.642;5.642;5.642;5.642;5.642;5.642;5.642;5.642;5.642;5.642;5.642;5.642
+Acervo;Folhetos;Impresso;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;189;189;189;189;189;189;189;189;189;189;189;189
+Acervo;Textos  de teatro;Impresso;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;902;902;902;902;902;902;902;902;902;902;902;902
+Acervo;Gravação de som musical (inclui CDs sonoro, fitas cassete, DVDs);Eletrônico;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;1.058;1.058;1.058;1.058;1.058;1.058;1.058;1.058;1.058;1.058;1.058;1.058
+Acervo;Livro eletrônico - CD;Eletrônico;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;62;62;62;62;62;62;62;62;62;62;62;62
+Acervo;Recurso eletrônico – CD-ROM;Eletrônico;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;39;39;39;39;39;39;39;39;39;39;39;39
+Acervo;Gravação de vídeo (inclui DVDs, fitas de vídeo);Eletrônico;Aquisição Perpétua;SophiA e Banco de dados Estatísticos SISBI/UFU;Qtde. Mês;2.181;2.181;2.181;2.181;2.181;2.181;2.181;2.181;2.181;2.181;2.181;2.181
+Acervo;E-books (Cambridge, IEEE);Digital;Aquisição Perpétua;SophiA;Qtde. Mês;712;712;712;712;712;712;712;712;712;712;712;712
+Acervo;Peças teatrais (BDTeatro);Digital;Aquisição Perpétua;Biblioteca Digital de Peças Teatrais;Qtde. Mês;825;825;825;825;825;825;825;825;825;825;825;825
+Acervo;E-books (Ebsco);Digital;Assinatura;EDS/EBSCO;Qtde. Mês;180.000;180.000;180.000;180.000;180.000;180.000;180.000;180.000;180.000;180.000;180.000;206.000
+Acervo;E-books (RT Online);Digital;Assinatura;RT Online;Qtde. Mês;0;0;0;0;0;0;0;0;0;0;27;27
+Acervo;Audiobooks (Naxos);Digital;Assinatura;Naxos;Qtde. Mês;5.000;5.000;5.000;5.000;5.000;5.000;5.000;5.000;5.000;5.000;5.000;1.460
+;Partituras (Sheet Music Naxos);Digital;Assinatura;Naxos;Qtde. Mês;0;0;0;0;0;0;0;0;0;0;0;40.000
+Acervo;Periódicos (Jstor);Digital;Assinatura;Jstor;Qtde. Mês;133;133;133;133;133;133;133;133;133;133;133;133
+Acervo;Periódicos (RT Online);Digital;Assinatura;RT Online;Qtde. Mês;0;0;0;0;0;0;0;0;0;0;36;36
+Acervo;Normas técnicas (Target);Digital;Assinatura;Target;Qtde. Mês;0;0;0;0;0;0;0;0;0;0;641.306;641.306
+Acervo;Artigo de Periódico;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;0;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Capítulo de Livro;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;0;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Dissertação;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;58;66;80;62;48;38;59;41;55;65;64;43
+Acervo;Guia de estudo;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;0;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Livro;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;0;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Livro eletrônico (e-book);Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;0;2;0;6;0;0;0;0;0;1;0;1
+Acervo;Memorial;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;1;1;0;0;1;3;1;3;2;2;0;0
+Acervo;Relatório de Pesquisa;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;0;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Tese;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;25;22;21;23;21;21;15;26;25;17;13;18
+Acervo;Tese Professor Titular;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;0;0;0;0;1;0;0;1;1;0;1;0
+Acervo;Trabalho de Conclusão de Curso;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;177;74;41;55;76;371;126;51;43;122;495;200
+Acervo;Trabalho de Conclusão de Residência;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;1;9;21;8;5;7;2;0;1;0;1;0
+Acervo;Trabalho de Evento;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;0;0;0;0;0;0;23;0;0;0;1;0
+Acervo;Anais de evento;Digital;N/A;Repositório Institucional (Dspace);Qtde. Mês;1;0;1;0;0;0;24;0;0;1;0;0
+Acervo;Artigo de Periódico;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;0;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Capítulo de Livro;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;0;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Dissertação;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;13.826;14.315;17.052;11.564;9.125;6.771;10.115;6.945;7.881;9.152;7.683;4.974
+Acervo;Guia de estudo;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;0;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Livro;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;0;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Livro eletrônico (e-book);Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;0;2.542;0;1.144;0;0;0;0;0;1.403;0;67
+Acervo;Memorial;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;80;140;127;0;254;168;157;218;82;216;87;0
+Acervo;Relatório de Pesquisa;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;0;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Tese;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;4.847;4.916;3.982;3.960;3.062;4.971;2.828;3.901;3.724;2.364;1.454;2.379
+Acervo;Tese Professor Titular;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;0;0;0;0;0;198;0;0;604;0;145;0
+Acervo;Trabalho de Conclusão de Curso;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;29.054;13.219;6.328;9.900;10.504;64.853;19.089;7.474;6.067;15.073;62.125;20.688
+Acervo;Trabalho de Conclusão de Residência;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;5;801;2.181;622;337;1.458;562;0;264;66;691;0
+Acervo;Trabalho de Evento;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;0;0;0;0;0;0;3.520;0;0;0;93;0
+Acervo;Anais de evento;Digital;N/A;Repositório Institucional (Dspace);Acessos Mês;1119;0;0;0;0;0;0;0;0;0;0;0
+Acervo;Periódicos;Digital;N/A;Portal de Periódicos UFU (OJS);Qtde. Mês;10;16;15;19;13;22;10;15;16;20;16;3
+Acervo;Fascículos;Digital;N/A;Portal de Periódicos UFU (OJS);Qtde. Mês;12;19;18;29;19;29;15;15;16;21;17;4
+Acervo;Artigos;Digital;N/A;Portal de Periódicos UFU (OJS);Qtde. Mês;83;131;90;199;154;410;118;125;125;193;167;9
